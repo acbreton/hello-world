@@ -8,5 +8,6 @@ System.out.println("Cool stuff, right?");
 Find me on LinkedIn if you are interested in where I've been, where I am, and where I'm going.  If you want to connect, I'm always open for a discussion.
 
 https://www.linkedin.com/in/alec-breton
+http://stackoverflow.com/users/5771462/alec-breton
 
 Happy Coding!
